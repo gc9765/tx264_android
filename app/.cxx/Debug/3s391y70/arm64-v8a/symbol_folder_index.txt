@@ -1,0 +1,1 @@
+/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a

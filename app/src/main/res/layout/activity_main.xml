@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TaiXin视频转码器"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="30dp" />
+
+    <Button
+        android:id="@+id/btn_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选择视频文件" />
+
+    <Button
+        android:id="@+id/btn_transcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开始转码"
+        android:layout_marginTop="10dp"
+        android:enabled="false" />
+
+    <TextView
+        android:id="@+id/tv_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="请选择视频文件"
+        android:layout_marginTop="20dp"
+        android:textIsSelectable="true" />
+</LinearLayout>

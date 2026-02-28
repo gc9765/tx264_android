@@ -1,0 +1,19 @@
+# ninja log v5
+0	373	1772180751999412428	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+373	523	1772180752158417566	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+0	577	1772182005178020255	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+577	2596	1772182007169045468	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+0	171	1772185485605273056	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+171	732	1772185486138279155	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+1	139	1772185643388991769	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+139	309	1772185643523993173	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+0	132	1772185848908022831	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+132	315	1772185849060024265	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+1	158	1772186502262634029	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+158	306	1772186502380634977	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+1	161	1772188438250375755	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+161	347	1772188438407376748	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+1	145	1772242480161560014	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+145	332	1772242480296560798	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976
+0	150	1772244093771228075	CMakeFiles/video-transcoder.dir/native-lib.cpp.o	86ac7e74c4d48a02
+150	304	1772244093896228832	/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so	7cef90bee624b976

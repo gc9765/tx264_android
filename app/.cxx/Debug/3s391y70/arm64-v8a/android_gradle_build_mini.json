@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/tx/AndroidStudioProjects/MyVideoApp/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/tx/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/tx/AndroidStudioProjects/MyVideoApp/app/.cxx/Debug/3s391y70/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/tx/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/tx/AndroidStudioProjects/MyVideoApp/app/.cxx/Debug/3s391y70/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "video-transcoder::@6890427a1f51a3e7e1df": {
+      "artifactName": "video-transcoder",
+      "abi": "arm64-v8a",
+      "output": "/home/tx/AndroidStudioProjects/MyVideoApp/app/build/intermediates/cxx/Debug/3s391y70/obj/arm64-v8a/libvideo-transcoder.so",
+      "runtimeFiles": []
+    }
+  }
+}
